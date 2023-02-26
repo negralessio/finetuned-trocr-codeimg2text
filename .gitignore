@@ -1,0 +1,15 @@
+# ignore pycache directory and all .pyc files
+__pycache__/
+*.pyc
+
+# Ignore directories and files created by setup.py
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ignore content of models directory
+models/
+
+# ignore data directory
+data/
