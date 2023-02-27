@@ -19,10 +19,12 @@ age. These code line snippets were then used to train the model. To evaluate the
 performance, unseen code snippets from the test set were used to calculate evaluation met-
 rics such as CER and Levenshtein distance.*
 
-![History](img/Custom_Split_64b_10e_eval_2023-01-26 150515.418401.png)
+
+![history](img/Custom_Split_64b_10e_eval_2023-01-26%20150515.418401.png)
 *Cross Entropy Loss and mean CER after each epoch. The CER is calculated on the vali-
 dation set after each epoch. The model yields a favorable result, but the CER leaves room
 for improvement due to noise characters such as ’→’ and ’|’ that the model falsely predicts.*
+
 
 ![results](img/readme_imgs/final_results.png)
 *Comparison of the trained model (first two rows), which was fine-tuned on the TROCRBASE -
