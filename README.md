@@ -1,6 +1,6 @@
-# Seminar: OCR on Code Screenshots – Training a Transformer based OCR Engine
-Repository of our seminar project **'OCR on Code Screenshots – Training a Transformer Based OCR Engine'** at FZI.  
-Final elaboration can be found in the document directory.
+# OCR on Code Screenshots – Training a Transformer based OCR Engine
+- Repository of our seminar project **'OCR on Code Screenshots – Training a Transformer Based OCR Engine'** at FZI.  
+- Final elaboration can be found in the document directory, or click [here](https://github.com/negralessio/finetuned-trocr-codeimg2text/blob/master/document/OCR_on_Code_Screenshots_v1_published.pdf).
 
 ## Project Team
 **Use Case Owner:** Alexander Naumann
